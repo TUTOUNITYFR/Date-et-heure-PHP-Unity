@@ -4,7 +4,7 @@ Ce repo permet de récupérer la date et l'heure d'un fuseau horaire sur Unity v
 
 Récupérer la date et l'heure via un fichier PHP permet (contrairement à l'utilisation de System.DateTime) de faire référence à la date et à l'heure actuelle sans que le / les joueur(s) ne puissent manuellement changer la date et l'heure.
 
-La récupération via PHP permet donc _d'éviter la triche_.
+La récupération via PHP permet donc **d'éviter la triche**.
 
 # Mise en place
 
@@ -21,7 +21,7 @@ _Note : si vous n'avez pas de serveur vous pouvez utiliser le lien de mon fichie
 
 # Liens
 
-► Vous retrouverez tous les fuseaux horaires (timezones) existants "[ICI](http://php.net/manual/fr/timezones.php).
+► Vous retrouverez tous les fuseaux horaires (timezones) existants [ICI](http://php.net/manual/fr/timezones.php).
 
 ► Si vous utilisez ce repo GitHub pensez à me créditer dans votre jeu. Ce n'est pas obligatoire mais c'est fortement apprécié.
 
