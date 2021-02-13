@@ -1,4 +1,4 @@
-# Récupération de la date et heure actuelle sur Unity3D via un script PHP
+# Récupération de la date et heure actuelle sur Unity via un script PHP
 
 Ce repo permet de récupérer la date et l'heure d'un fuseau horaire sur Unity via un fichier PHP.
 
@@ -8,7 +8,7 @@ La récupération via PHP permet donc **d'éviter la triche**.
 
 # Mise en place
 
-Tutoriel vidéo pour la mise en place : lien à venir
+Tutoriel vidéo pour la mise en place : https://www.youtube.com/watch?v=qVJ6wcox2M0
 
 **Tutoriel écrit :**
 
